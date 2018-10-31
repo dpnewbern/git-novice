@@ -15,3 +15,7 @@ $ cd Desktop
 {: .language-bash}
 
 [workshop-setup]: https://carpentries.github.io/workshop-template/#git
+$ git config --global user.name "dpnewbern"
+$ git config --global user.email "David.Newbern@ttu.edu"
+$ git config --global core.autocrlf true
+$ git config --global core.editor "'c:/program files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
